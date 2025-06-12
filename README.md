@@ -3,4 +3,5 @@ This is a simple backup automation script created in Kali Linux by me as a begin
 You will also find the screenshots of the script.
 
 **Language used**
+
 Bash
